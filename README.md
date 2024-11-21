@@ -11,7 +11,8 @@ Master’s Degree in Computer Science from University of Missouri at Kansas City
 
 **Work Experience**
 
-Cognizant 
+Cognizant Technologies Pvt,Ltd
+Jan 2022-Dec 2022
 
 **Projects**
 
