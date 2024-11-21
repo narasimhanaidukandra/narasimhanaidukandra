@@ -1,4 +1,4 @@
-## Hi there 👋
+
 Hello! I'm Narasimha Naidu Kandra, a committed graduate student working towards a Master of Science in Computer Science at the University of Missouri-Kansas City. With a solid background in data analysis and machine learning, I have gained valuable hands-on experience in defensive cybersecurity, especially during my time as a Data Analyst at Cognizant. Currently, I am excited to broaden my knowledge by exploring offensive cybersecurity, aiming to gain a comprehensive understanding of the field.
 
 **Technical Skills**
