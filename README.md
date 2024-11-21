@@ -13,7 +13,7 @@ Master’s Degree in Computer Science from University of Missouri at Kansas City
 
 Cognizant 
 
-**Projects****
+**Projects**
 
 Brain tumor Detection and classification
 
