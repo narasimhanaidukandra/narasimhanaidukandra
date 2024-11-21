@@ -9,11 +9,6 @@ Programming Languages: Python, C, SQL Web technologies: HTML Databases: MY SQL. 
 
 Master’s Degree in Computer Science from University of Missouri at Kansas City Bachelor’s Degree in Information Technology from Vignan's University.
 
-**Work Experience**
-
-Cognizant Technologies Pvt,Ltd
-
-
 **Projects**
 
 Brain tumor Detection and classification
